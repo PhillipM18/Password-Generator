@@ -1,5 +1,6 @@
 # Functionality:
-<img align="right" width=200px alt="PNG" src="https://i.gifer.com/6LW1.gif" />
+
+<img align="right" src= "https://media.giphy.com/media/IgLIVXrBcID9cExa6r/giphy.gif" width="400" >
 
 -   Generate a password.
 -   Customize it how you want (Numbers, letters, special characters)
