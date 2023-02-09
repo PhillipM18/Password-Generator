@@ -1,3 +1,5 @@
+<img align="right" src= "https://img.shields.io/github/repo-size/Scottz18/Password-Generator?label=File%20Size&style=plastic" width="150" >
+
 # Functionality:
 
 <img align="right" src= "https://media.giphy.com/media/IgLIVXrBcID9cExa6r/giphy.gif" width="400" >
